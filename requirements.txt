@@ -2,7 +2,8 @@ numpy
 matplotlib
 opencv-python
 tqdm
-mediapipe
 pandas 
 scikit-learn
 joblib
+mediapipe
+streamlit
